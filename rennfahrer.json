@@ -1,0 +1,738 @@
+[
+  {
+    "number": "1",
+    "name": "TADEJ POGACAR"
+  },
+  {
+    "number": "2",
+    "name": "JOAO ALMEIDA"
+  },
+  {
+    "number": "3",
+    "name": "JHONATAN NARVAEZ"
+  },
+  {
+    "number": "4",
+    "name": "NILS POLITT"
+  },
+  {
+    "number": "5",
+    "name": "PAVEL SIVAKOV"
+  },
+  {
+    "number": "6",
+    "name": "MARC SOLER"
+  },
+  {
+    "number": "7",
+    "name": "TIM WELLENS"
+  },
+  {
+    "number": "8",
+    "name": "ADAM YATES"
+  },
+  {
+    "number": "11",
+    "name": "JONAS VINGEGAARD"
+  },
+  {
+    "number": "12",
+    "name": "EDOARDO AFFINI"
+  },
+  {
+    "number": "13",
+    "name": "TIESJ BENOOT"
+  },
+  {
+    "number": "14",
+    "name": "VICTOR CAMPENAERTS"
+  },
+  {
+    "number": "15",
+    "name": "MATTEO JORGENSON"
+  },
+  {
+    "number": "16",
+    "name": "SEPP KUSS"
+  },
+  {
+    "number": "17",
+    "name": "WOUT VAN AERT"
+  },
+  {
+    "number": "18",
+    "name": "SIMON YATES"
+  },
+  {
+    "number": "21",
+    "name": "REMCO EVENEPOEL"
+  },
+  {
+    "number": "22",
+    "name": "MATTIA CATTANEO"
+  },
+  {
+    "number": "23",
+    "name": "PASCAL EENKHOORN"
+  },
+  {
+    "number": "24",
+    "name": "TIM MERLIER"
+  },
+  {
+    "number": "25",
+    "name": "VALENTIN PARET PEINTRE"
+  },
+  {
+    "number": "26",
+    "name": "MAXIMILIAN SCHACHMANN"
+  },
+  {
+    "number": "27",
+    "name": "BERT VAN LERBERGHE"
+  },
+  {
+    "number": "28",
+    "name": "ILAN VAN WILDER"
+  },
+  {
+    "number": "31",
+    "name": "BEN HEALY"
+  },
+  {
+    "number": "32",
+    "name": "VINCENZO ALBANESE"
+  },
+  {
+    "number": "33",
+    "name": "KASPER ASGREEN"
+  },
+  {
+    "number": "34",
+    "name": "ALEX BAUDIN"
+  },
+  {
+    "number": "35",
+    "name": "NEILSON POWLESS"
+  },
+  {
+    "number": "36",
+    "name": "HARRISON SWEENY"
+  },
+  {
+    "number": "37",
+    "name": "MICHAEL VALGREN"
+  },
+  {
+    "number": "38",
+    "name": "MARIJN VAN DEN BERG"
+  },
+  {
+    "number": "41",
+    "name": "BINIAM GIRMAY"
+  },
+  {
+    "number": "42",
+    "name": "LOUIS BARRE"
+  },
+  {
+    "number": "43",
+    "name": "VITO BRAET"
+  },
+  {
+    "number": "44",
+    "name": "HUGO PAGE"
+  },
+  {
+    "number": "45",
+    "name": "LAURENZ REX"
+  },
+  {
+    "number": "46",
+    "name": "JONAS RUTSCH"
+  },
+  {
+    "number": "47",
+    "name": "ROEL VAN SINTMAARTENSDIJK"
+  },
+  {
+    "number": "48",
+    "name": "GEORG ZIMMERMANN"
+  },
+  {
+    "number": "51",
+    "name": "SANTIAGO BUITRAGO"
+  },
+  {
+    "number": "52",
+    "name": "PHIL BAUHAUS"
+  },
+  {
+    "number": "53",
+    "name": "KAMIL GRADEK"
+  },
+  {
+    "number": "54",
+    "name": "JACK HAIG"
+  },
+  {
+    "number": "55",
+    "name": "LENNY MARTINEZ"
+  },
+  {
+    "number": "56",
+    "name": "MATEJ MOHORIC"
+  },
+  {
+    "number": "57",
+    "name": "ROBERT STANNARD"
+  },
+  {
+    "number": "58",
+    "name": "FRED WRIGHT"
+  },
+  {
+    "number": "61",
+    "name": "GERAINT THOMAS"
+  },
+  {
+    "number": "62",
+    "name": "THYMEN ARENSMAN"
+  },
+  {
+    "number": "63",
+    "name": "TOBIAS FOSS"
+  },
+  {
+    "number": "64",
+    "name": "FILIPPO GANNA"
+  },
+  {
+    "number": "65",
+    "name": "AXEL LAURANCE"
+  },
+  {
+    "number": "66",
+    "name": "CARLOS RODRIGUEZ"
+  },
+  {
+    "number": "67",
+    "name": "CONNOR SWIFT"
+  },
+  {
+    "number": "68",
+    "name": "SAMUEL WATSON"
+  },
+  {
+    "number": "71",
+    "name": "PRIMOZ ROGLIC"
+  },
+  {
+    "number": "72",
+    "name": "FLORIAN LIPOWITZ"
+  },
+  {
+    "number": "73",
+    "name": "JORDI MEEUS"
+  },
+  {
+    "number": "74",
+    "name": "GIANNI MOSCON"
+  },
+  {
+    "number": "75",
+    "name": "LAURENCE PITHIE"
+  },
+  {
+    "number": "76",
+    "name": "MICK VAN DIJKE"
+  },
+  {
+    "number": "77",
+    "name": "DANNY VAN POPPEL"
+  },
+  {
+    "number": "78",
+    "name": "ALEKSANDR VLASOV"
+  },
+  {
+    "number": "81",
+    "name": "JONATHAN MILAN"
+  },
+  {
+    "number": "82",
+    "name": "SIMONE CONSONNI"
+  },
+  {
+    "number": "83",
+    "name": "THIBAU NYS"
+  },
+  {
+    "number": "84",
+    "name": "QUINN SIMMONS"
+  },
+  {
+    "number": "85",
+    "name": "MATTIAS SKJELMOSE"
+  },
+  {
+    "number": "86",
+    "name": "TOMS SKUJINS"
+  },
+  {
+    "number": "87",
+    "name": "JASPER STUYVEN"
+  },
+  {
+    "number": "88",
+    "name": "EDWARD THEUNS"
+  },
+  {
+    "number": "91",
+    "name": "GUILLAUME MARTIN GUYONNET"
+  },
+  {
+    "number": "92",
+    "name": "LEWIS ASKEY"
+  },
+  {
+    "number": "93",
+    "name": "CYRIL BARTHE"
+  },
+  {
+    "number": "94",
+    "name": "ROMAIN GREGOIRE"
+  },
+  {
+    "number": "95",
+    "name": "VALENTIN MADOUAS"
+  },
+  {
+    "number": "96",
+    "name": "QUENTIN PACHER"
+  },
+  {
+    "number": "97",
+    "name": "PAUL PENHOET"
+  },
+  {
+    "number": "98",
+    "name": "CLÉMENT RUSSO"
+  },
+  {
+    "number": "101",
+    "name": "JASPER PHILIPSEN"
+  },
+  {
+    "number": "102",
+    "name": "SILVAN DILLIER"
+  },
+  {
+    "number": "103",
+    "name": "KADEN GROVES"
+  },
+  {
+    "number": "104",
+    "name": "XANDRO MEURISSE"
+  },
+  {
+    "number": "105",
+    "name": "JONAS RICKAERT"
+  },
+  {
+    "number": "106",
+    "name": "MATHIEU VAN DER POEL"
+  },
+  {
+    "number": "107",
+    "name": "GIANNI VERMEERSCH"
+  },
+  {
+    "number": "108",
+    "name": "EMIEL VERSTRYNGE"
+  },
+  {
+    "number": "111",
+    "name": "JULIAN ALAPHILIPPE"
+  },
+  {
+    "number": "112",
+    "name": "ALBERTO DAINESE"
+  },
+  {
+    "number": "113",
+    "name": "MARCO HALLER"
+  },
+  {
+    "number": "114",
+    "name": "MARC HIRSCHI"
+  },
+  {
+    "number": "115",
+    "name": "FABIAN LIENHARD"
+  },
+  {
+    "number": "116",
+    "name": "MARIUS MAYRHOFER"
+  },
+  {
+    "number": "117",
+    "name": "MICHAEL STORER"
+  },
+  {
+    "number": "118",
+    "name": "MATTEO TRENTIN"
+  },
+  {
+    "number": "121",
+    "name": "BEN O'CONNOR"
+  },
+  {
+    "number": "122",
+    "name": "EDWARD DUNBAR"
+  },
+  {
+    "number": "123",
+    "name": "LUKE DURBRIDGE"
+  },
+  {
+    "number": "124",
+    "name": "DYLAN GROENEWEGEN"
+  },
+  {
+    "number": "125",
+    "name": "LUKA MEZGEC"
+  },
+  {
+    "number": "126",
+    "name": "LUKE PLAPP"
+  },
+  {
+    "number": "127",
+    "name": "ELMAR REINDERS"
+  },
+  {
+    "number": "128",
+    "name": "MAURO SCHMID"
+  },
+  {
+    "number": "131",
+    "name": "KÉVIN VAUQUELIN"
+  },
+  {
+    "number": "132",
+    "name": "AMAURY CAPIOT"
+  },
+  {
+    "number": "133",
+    "name": "EWEN COSTIOU"
+  },
+  {
+    "number": "134",
+    "name": "ARNAUD DEMARE"
+  },
+  {
+    "number": "135",
+    "name": "RAUL GARCIA PIERNA"
+  },
+  {
+    "number": "136",
+    "name": "MATHIS LE BERRE"
+  },
+  {
+    "number": "137",
+    "name": "CRISTIAN RODRIGUEZ"
+  },
+  {
+    "number": "138",
+    "name": "CLÉMENT VENTURINI"
+  },
+  {
+    "number": "141",
+    "name": "ENRIC MAS"
+  },
+  {
+    "number": "142",
+    "name": "WILLIAM BARTA"
+  },
+  {
+    "number": "143",
+    "name": "PABLO CASTRILLO ZAPATER"
+  },
+  {
+    "number": "144",
+    "name": "NELSON OLIVEIRA"
+  },
+  {
+    "number": "145",
+    "name": "IVAN GARCIA CORTINA"
+  },
+  {
+    "number": "146",
+    "name": "GREGOR MÜHLBERGER"
+  },
+  {
+    "number": "147",
+    "name": "IVAN ROMEO ABAD"
+  },
+  {
+    "number": "148",
+    "name": "EINER RUBIO REYES"
+  },
+  {
+    "number": "151",
+    "name": "FÉLIX GALL"
+  },
+  {
+    "number": "152",
+    "name": "BRUNO ARMIRAIL"
+  },
+  {
+    "number": "153",
+    "name": "CLÉMENT BERTHET"
+  },
+  {
+    "number": "154",
+    "name": "STEFAN BISSEGGER"
+  },
+  {
+    "number": "155",
+    "name": "OLIVER NAESEN"
+  },
+  {
+    "number": "156",
+    "name": "AURÉLIEN PARET PEINTRE"
+  },
+  {
+    "number": "157",
+    "name": "CALLUM SCOTSON"
+  },
+  {
+    "number": "158",
+    "name": "BASTIEN TRONCHON"
+  },
+  {
+    "number": "161",
+    "name": "EMANUEL BUCHMANN"
+  },
+  {
+    "number": "162",
+    "name": "ALEX ARANBURU"
+  },
+  {
+    "number": "163",
+    "name": "BRYAN COQUARD"
+  },
+  {
+    "number": "164",
+    "name": "ION IZAGIRRE"
+  },
+  {
+    "number": "165",
+    "name": "ALEXIS RENARD"
+  },
+  {
+    "number": "166",
+    "name": "DYLAN TEUNS"
+  },
+  {
+    "number": "167",
+    "name": "BENJAMIN THOMAS"
+  },
+  {
+    "number": "168",
+    "name": "DAMIEN TOUZE"
+  },
+  {
+    "number": "171",
+    "name": "HAROLD TEJADA"
+  },
+  {
+    "number": "172",
+    "name": "DAVIDE BALLERINI"
+  },
+  {
+    "number": "173",
+    "name": "CEES BOL"
+  },
+  {
+    "number": "174",
+    "name": "CLÉMENT CHAMPOUSSIN"
+  },
+  {
+    "number": "175",
+    "name": "YEVGENIY FEDOROV"
+  },
+  {
+    "number": "176",
+    "name": "SERGIO HIGUITA"
+  },
+  {
+    "number": "177",
+    "name": "MIKE TEUNISSEN"
+  },
+  {
+    "number": "178",
+    "name": "SIMONE VELASCO"
+  },
+  {
+    "number": "181",
+    "name": "STEFF CRAS"
+  },
+  {
+    "number": "182",
+    "name": "MATHIEU BURGAUDEAU"
+  },
+  {
+    "number": "183",
+    "name": "ALEXANDRE DELETTRE"
+  },
+  {
+    "number": "184",
+    "name": "THOMAS GACHIGNARD"
+  },
+  {
+    "number": "185",
+    "name": "EMILIEN JEANNIERE"
+  },
+  {
+    "number": "186",
+    "name": "JORDAN JEGAT"
+  },
+  {
+    "number": "187",
+    "name": "ANTHONY TURGIS"
+  },
+  {
+    "number": "188",
+    "name": "MATTEO VERCHER"
+  },
+  {
+    "number": "191",
+    "name": "OSCAR ONLEY"
+  },
+  {
+    "number": "192",
+    "name": "WARREN BARGUIL"
+  },
+  {
+    "number": "193",
+    "name": "PAVEL BITTNER"
+  },
+  {
+    "number": "194",
+    "name": "SEAN FLYNN"
+  },
+  {
+    "number": "195",
+    "name": "TOBIAS LUND ANDRESEN"
+  },
+  {
+    "number": "196",
+    "name": "NIKLAS MÄRKL"
+  },
+  {
+    "number": "197",
+    "name": "TIM NABERMAN"
+  },
+  {
+    "number": "198",
+    "name": "FRANK VAN DEN BROEK"
+  },
+  {
+    "number": "201",
+    "name": "MICHAEL WOODS"
+  },
+  {
+    "number": "202",
+    "name": "PASCAL ACKERMANN"
+  },
+  {
+    "number": "203",
+    "name": "JOSEPH BLACKMORE"
+  },
+  {
+    "number": "204",
+    "name": "GUILLAUME BOIVIN"
+  },
+  {
+    "number": "205",
+    "name": "MATIS LOUVEL"
+  },
+  {
+    "number": "206",
+    "name": "ALEXEY LUTSENKO"
+  },
+  {
+    "number": "207",
+    "name": "KRISTS NEILANDS"
+  },
+  {
+    "number": "208",
+    "name": "JAKE STEWART"
+  },
+  {
+    "number": "211",
+    "name": "ARNAUD DE LIE"
+  },
+  {
+    "number": "212",
+    "name": "JENNO BERCKMOES"
+  },
+  {
+    "number": "213",
+    "name": "JASPER DE BUYST"
+  },
+  {
+    "number": "214",
+    "name": "JARRAD DRIZNERS"
+  },
+  {
+    "number": "215",
+    "name": "SÉBASTIEN GRIGNARD"
+  },
+  {
+    "number": "216",
+    "name": "EDUARDO SEPULVEDA"
+  },
+  {
+    "number": "217",
+    "name": "LENNERT VAN EETVELT"
+  },
+  {
+    "number": "218",
+    "name": "BRENT VAN MOER"
+  },
+  {
+    "number": "221",
+    "name": "TOBIAS JOHANNESSEN"
+  },
+  {
+    "number": "222",
+    "name": "JONAS ABRAHAMSEN"
+  },
+  {
+    "number": "223",
+    "name": "MAGNUS CORT NIELSEN"
+  },
+  {
+    "number": "224",
+    "name": "STIAN EDVARDSEN-FREDHEIM"
+  },
+  {
+    "number": "225",
+    "name": "MARKUS HOELGAARD"
+  },
+  {
+    "number": "226",
+    "name": "ANDERS JOHANNESSEN"
+  },
+  {
+    "number": "227",
+    "name": "ANDREAS LEKNESSUND"
+  },
+  {
+    "number": "228",
+    "name": "SOREN WAERENSKJOLD"
+  }
+]

@@ -1,3 +1,4 @@
+import json
 import requests
 from bs4 import BeautifulSoup
 
@@ -29,4 +30,10 @@ if response.status_code == 200:
 else:
     print(f"Fehler beim Laden der Seite: Statuscode {response.status_code}")
 combined = list(zip(numlist, namelist))
-print((combined))
+
+
+data = [{"number": num, "name": name} for num, name in combined]
+
+with open("rennfahrer.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+#saved in rennfahrer.json
